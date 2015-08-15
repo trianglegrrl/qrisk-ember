@@ -2,6 +2,7 @@
   "predef": [
     "document",
     "window",
+    "qrisk2-2014",
     "-Promise"
   ],
   "browser": true,
